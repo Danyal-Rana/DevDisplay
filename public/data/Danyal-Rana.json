@@ -1,0 +1,13 @@
+{
+  "name": "Danyal Rana",
+  "location": "Islamabad, Pakistan",
+  "bio": "! Your Ordinary Rana",
+  "avatar": "https://github.com/Danyal-Rana.png",
+  "portfolio": "https://mdrana.com/",
+  "skills": ["DSA", "MERN"],
+  "social": {
+    "GitHub": "https://github.com/Danyal-Rana",
+    "Twitter": "https://twitter.com/",
+    "LinkedIn": "https://www.linkedin.com/in/ranadanyal"
+  }
+}
